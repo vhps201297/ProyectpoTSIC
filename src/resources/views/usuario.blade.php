@@ -16,7 +16,7 @@
                         <h6 class="card-subtitle text-muted">{{$users[0]->email}}</h6><br>
                         <h6 class="card-subtitle text-muted">Github <a href="https://github.com/vhps201297/">https://github.com/vhps201297/</a></h6>
                         <hr>
-                        <p>Me gusta el desarrollo de software, pero me gusta más la clase de TSIC II</p>
+                        <p>Nos gusta el desarrollo de software, pero me gusta más la clase de TSIC II</p>
                     </div>
                 </div>
                 
